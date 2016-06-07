@@ -1,0 +1,1 @@
+# XIVDB.SpiderNest
