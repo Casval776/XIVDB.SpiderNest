@@ -17,7 +17,7 @@ namespace SpiderNest
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new SpiderService()
             };
             ServiceBase.Run(ServicesToRun);
         }

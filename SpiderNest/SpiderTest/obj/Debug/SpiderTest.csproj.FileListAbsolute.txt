@@ -1,0 +1,15 @@
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\bin\Debug\SpiderTest.dll
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\bin\Debug\SpiderTest.pdb
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\bin\Debug\SpiderNest.exe
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\bin\Debug\XIVDB.dll
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\bin\Debug\log4net.dll
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\bin\Debug\SpiderNest.pdb
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\bin\Debug\XIVDB.pdb
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\bin\Debug\log4net.xml
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\obj\Debug\SpiderTest.csprojResolveAssemblyReference.cache
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\obj\Debug\SpiderTest.dll
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\obj\Debug\SpiderTest.pdb
+C:\Users\grans\documents\visual studio 2015\Projects\SpiderNest\SpiderTest\bin\Debug\SpiderTest.dll.config
